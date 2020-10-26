@@ -10,6 +10,7 @@ channel (bi-directional streams)
 
 The communication protocol is a lightweight one as compared to HTTP. 
 
-The Sample contains request-response & fire & forget methods at server level using Spring-Boot.
+The Sample contains request-response & fire & forget methods at server level using Spring-Boot. A ample DB connection can be found also; to check the DB connectivity (Sync connectivity/Non Reactive JDBC) while using RSocket.
+RSocket 
 
 The Client is built using Spring Shell to call the same methods.
